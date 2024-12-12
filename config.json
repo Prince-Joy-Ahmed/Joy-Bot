@@ -35,27 +35,27 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100071880593545"
+    "61568646922201"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100071880593545"
+      "61568646922201"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝐀𝐌𝐈𝐍𝐔𝐋-𝐁𝐎𝐓",
-  "prefix": "/",
+  "nickNameBot": "JOY-BOT",
+  "prefix": ".",
   "ArYanapi": "https://aryan-rest-api.onrender.com",
   "api": "",
   "api2": "",
   "api3": "",
-  "authorName": "aminul sordar",
-  "facebook2": "https://www.facebook.com/100071880593545",
-  "facebook": "https://www.facebook.com/100071880593545",
-  "email": "aminulsordar04@gmail.com",
+  "authorName": "Joy Ahmed",
+  "facebook2": "https://www.facebook.com/profile.php?id=100000121528628",
+  "facebook": "https://www.facebook.com/profile.php?id=100000121528628",
+  "email": "joyahmedtt@gmail.com",
   "replit": "Off",
-  "github": "https://github.com/Aminulsordar",
+  "github": "https://github.com/joy",
   "insta": "no",
   "age": "18+",
   "TG": "",
