@@ -1,6 +1,6 @@
 const axios = require('axios');
 const baseApiUrl = async () => {
-  const base = await axios.get('https://www.noobs-api.000.pe/dipto/baby?text=hi');
+  const base = await axios.get('https://www.noobs-api.000.pe/dipto/babysim?message=()');
   return base.data.api;
 };
 
