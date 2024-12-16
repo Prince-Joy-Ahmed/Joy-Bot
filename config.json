@@ -34,6 +34,14 @@
     "enable": false,
     "ignoreCommand": []
   },
+"API": {
+    "DIPTO": "https://www.noobs-api.000.pe/dipto",
+    "SAMIR": "https://www.samirxpikachu.run.place",
+    "ASIF": "https://nubs-apis.onrender.com",
+    "rubishapi": "https://rubish-apihub.onrender.com/rubish"
+  },
+
+
   "adminBot": [
     "61568646922201"
   ],
